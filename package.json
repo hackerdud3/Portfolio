@@ -1,13 +1,21 @@
 {
-  "name": "Vinay-Portfolio",
+  "name": "vinay-portfolio",
   "version": "1.0.1",
   "private": "true",
+  "description": "Nandhi Kanti Vinay Portfolio",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackerdud3/Portfolio"
+  },
   "keywords": [],
+  "author": "Vinay",
+  "license": "ISC",
+  "homepage": "https://github.com/hackerdud3",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.8.2",
